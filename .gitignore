@@ -198,5 +198,5 @@ models/
 # - uv.lock SÍ se versiona (no está en este .gitignore)
 # - pyproject.toml SÍ se versiona (no está en este .gitignore)
 
-*.github
+.github/
 *.env.example
