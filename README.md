@@ -14,7 +14,7 @@ Proyecto de aula para estudiar una aplicacion monolitica modular que combina Pos
 3. Inicia las bases de datos:
 
    ```powershell
-   docker compose up -d
+   docker compose up -d         
    ```
 
 4. Crea y activa un entorno Python, e instala las dependencias:
